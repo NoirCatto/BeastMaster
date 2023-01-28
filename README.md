@@ -16,7 +16,7 @@ Warning!!
 - Doesn't work with Safari mode yet, due to extensive changes that have been made to the gamemode.
 
 ***
-Source code is not available, as original source code has been long lost. The current build is a decompiled v1.5 version of BeastMaster by Fyre, ported first to BepInEx and now to Rain World v1.9
+Source code is not available, as original source code has been long lost. The current build is a decompiled v1.5 version of BeastMaster by Fyre, ported by me first to BepInEx and now to Rain World v1.9, along with some additional fixes.
 ***
 [Steam Workshop Link](https://steamcommunity.com/sharedfiles/filedetails/?id=2920903670)
 <br>
