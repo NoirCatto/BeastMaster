@@ -9,6 +9,11 @@ Press "B" in-game to access the spawnmenu! (Key can be re-bound through the Remi
 Hold SHIFT to spawn a tamed creature (if possible)
 Hold ALT to spawn a dead creature.
 
+When spawning Slugcats, hold SHIFT to spawn a Pup instead.
+The Pink Slugcat is the original Slugpup template.
+If you're planning on spawning Pups with this to play in Story Mode, also get this helper mod:
+https://steamcommunity.com/sharedfiles/filedetails/?id=2943737047
+
 Warning!!
 - Spawning some items objects from DLL menu can freeze the game, as it contains ALL the items in the game. Creatures should be fine though.
 - Doesn't work with Safari mode yet, due to extensive changes that have been made to the gamemode.
